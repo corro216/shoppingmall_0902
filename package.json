@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/corro216/shoppingmall_0902/issues"
   },
-  "homepage": "https://github.com/corro216/shoppingmall_0902#readme"
+  "homepage": "https://github.com/corro216/shoppingmall_0902#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
